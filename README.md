@@ -1,4 +1,3 @@
 web_flow
 ========
-This is the web_flow project.
-This is a great project!!
+I don't like this project, don't use it.
